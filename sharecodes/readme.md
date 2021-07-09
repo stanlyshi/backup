@@ -1,7 +1,9 @@
-一、青龙机器人配置方法：https://www.kejiwanjia.com/zheteng/1220.html
+## 一、青龙机器人配置方法：
+
+https://www.kejiwanjia.com/zheteng/1220.html
 
 
-二、青龙机器人开启 Telegram 对话框左下角快捷菜单方法：
+## 二、青龙机器人开启 Telegram 对话框左下角快捷菜单方法：
 
 ①访问机器人 `@BotFather`
 
@@ -33,7 +35,7 @@ a - 自定义快捷按钮
 提交互助码给机器人互助池，参加群众互助(须进入机器人进行操作)。操作方法：
 
 
-一、提交 `@passerbybbot` 机器人(主人：`柠檬panghu999`)互助池格式：
+## 三、提交 `@passerbybbot` 机器人(主人：`柠檬panghu999`)互助池格式：
 
 东东农场：
 
@@ -61,14 +63,14 @@ a - 自定义快捷按钮
 code1&code2&code3&code4&code5
 ```
 
-> 注：到家果园的互助码正确格式为 JD_xxxx@xxxx 或 WX_xxxx@xxxx
-> 如果互助码格式为 @xxxx，表示改账号未开启活动，该格式互助码无效
-> 小结：到家果园活动：**每天7-8点** 提交,每人每天限制一次,每个账号限制提交五个互助码!
-> 其他不定时上车时间，详见 https://t.me/passerby_b 公告。
+注：到家果园的互助码正确格式为 JD_xxxx@xxxx 或 WX_xxxx@xxxx
+如果互助码格式为 @xxxx，表示改账号未开启活动，该格式互助码无效
+小结：到家果园活动：**每天7-8点** 提交,每人每天限制一次,每个账号限制提交五个互助码!
+其他不定时上车时间，详见 https://t.me/passerby_b 公告。
 
 
 
-二、提交 `@JD_ShareCode_Bot` 机器人(主人：`JDHelloWorld`)互助池格式：
+## 四、提交 `@JD_ShareCode_Bot` 机器人(主人：`JDHelloWorld`)互助池格式：
 
 ```javascript
 闪购盲盒：
