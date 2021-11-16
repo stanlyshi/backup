@@ -17,17 +17,22 @@ https://www.kejiwanjia.com/zheteng/1220.html
 getcookie - 扫码获取cookie
 bean - 获取收支
 chart - 统计收支变化
+addcron - 增加定时
+cron - 管理定时设定
 cmd - 执行cmd命令
 edit - 编辑文件
+env - 管理环境变量
 dl - 下载文件
-getfile - 获取jd目录下文件
+getfile - 获取目录下文件
 log - 选择日志
 node - 执行js脚本文件，绝对路径
 set - BOT设置
+setname - 设置命令别名
 setshort - 设置自定义按钮
 snode - 选择脚本后台运行
 start - 开始使用本程序
 a - 自定义快捷按钮
+clearboard - 删除快捷按钮
 ```
 
 ⑤访问你的机器人，左下角快捷菜单就出现了
