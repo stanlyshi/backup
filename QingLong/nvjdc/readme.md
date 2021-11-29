@@ -14,6 +14,7 @@ cd /volume1/docker/nolanjdc
 ```
 
 4、拉取源码；
+
 4.1、拉源码 国内
 
 ```
@@ -33,6 +34,7 @@ mkdir -p  Config && cd Config
 ```
 
 6、下载原始配置模板；
+
 6.1、国内(地址已失效，点击直达 (https://t.me/update_help/246)文件)
 
 ```
